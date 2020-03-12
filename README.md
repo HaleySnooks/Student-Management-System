@@ -71,3 +71,5 @@ Contributions are very welcome, especially adding more features.
 
 If you want to contribute, make sure your code is licensed under the GNU Public User License (like this project). 
 Other than that, just open up an issue briefly describing the changes and create a pull request!
+
+[![Run on Repl.it](https://repl.it/badge/github/rbshadow/Student-Management-System)](https://repl.it/github/rbshadow/Student-Management-System)
